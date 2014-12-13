@@ -19,5 +19,12 @@
     "devDependencies": {
         "nodeunit": "latest"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dragiyski/nodejs-new-apply"
+    },
+    "bugs": {
+        "url": "https://github.com/Dragiyski/nodejs-new-apply/issues"
+    },
     "license": "LGPL"
 }

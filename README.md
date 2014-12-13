@@ -127,7 +127,7 @@ the proper way to act.
 All other cases should be compatible with ```apply```, including the messages of the exception thrown.
 
 Note: By default exception messages are hardcoded as function call is made to ```Function.prototype.new```. When used
-locally
+locally the function is not located there.
 
 Future
 ------
